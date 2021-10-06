@@ -1,4 +1,4 @@
-// 16967
+// boj 16967 배열 복원하기
 #include <cstdio>
 using namespace std;
 
