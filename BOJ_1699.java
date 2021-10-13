@@ -1,3 +1,5 @@
+// boj 1699 : 제곱수의 합
+
 import java.util.Arrays;
 import java.util.Scanner;
 
